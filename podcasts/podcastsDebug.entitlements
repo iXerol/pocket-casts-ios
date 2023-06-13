@@ -18,17 +18,11 @@
 		<string>applinks:pocketcasts.com</string>
 		<string>applinks:pocket-casts-main-development.mystagingwebsite.com</string>
 	</array>
-	<key>com.apple.developer.carplay-audio</key>
-	<true/>
 	<key>com.apple.developer.networking.wifi-info</key>
-	<true/>
-	<key>com.apple.developer.playable-content</key>
 	<true/>
 	<key>com.apple.developer.siri</key>
 	<true/>
 	<key>com.apple.security.application-groups</key>
-	<array>
-		<string>group.au.com.shiftyjelly.pocketcasts</string>
-	</array>
+	<array/>
 </dict>
 </plist>
